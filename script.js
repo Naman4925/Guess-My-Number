@@ -81,5 +81,5 @@ document.querySelector('.again').addEventListener('click', function () {
   document.querySelector('.guess').value = '';
 
   document.querySelector('body').style.backgroundColor = 'rgb(22, 219, 245)';
-  docu.querySelector('.number').style.width = '15rem';
+  docum.querySelector('.number').style.width = '15rem';
 });
